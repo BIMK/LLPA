@@ -1,0 +1,434 @@
+# depslib dependency file v1.0
+1447988386 source:e:\code_blocks\linkpropagation\labelpropagation.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cmath>
+	<map>
+	<assert.h>
+	<math.h>
+	"LabelPropagation.h"
+	<time.h>
+
+1432990163 source:e:\code_blocks\linkpropagation\loadinggraph.cpp
+	<iostream>
+	"loadingGraph.h"
+
+1448172587 source:e:\code_blocks\linkpropagation\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<set>
+	<map>
+	<algorithm>
+	<time.h>
+	"LabelPropagation.h"
+	"EvolutionFunction.h"
+	"pajek.h"
+
+1432552206 e:\code_blocks\linkpropagation\loadinggraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1427597141 e:\code_blocks\linkpropagation\labelpropagation.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"loadingGraph.h"
+
+1432903317 e:\code_blocks\linkpropagation\labelpropagation.h
+	<iostream>
+	"loadingGraph.h"
+
+1431258792 e:\code_blocks\linkpropagation\weithtgraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1431259936 e:\code_blocks\linkpropagation\weightgraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<map>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1431260279 source:e:\code_blocks\linkpropagation\weightgraph.cpp
+	<iostream>
+	"WeightGraph.h"
+
+1449384446 source:e:\code_blocks\linkpropagation\evolutionfunction.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<math.h>
+	<numeric>
+	"EvolutionFunction.h"
+
+1449384446 e:\code_blocks\linkpropagation\evolutionfunction.h
+	<iostream>
+	"loadingGraph.h"
+
+1444464273 e:\code_blocks\linkpropagation\pajek.h
+	<iostream>
+	<ostream>
+	<vector>
+	"loadingGraph.h"
+
+1447855829 source:e:\code_blocks\linkpropagation\testnetworkoverlap.cpp
+	"LabelPropagation.h"
+
+1447855434 e:\code_blocks\linkpropagation\testnetworkoverlap.cpp
+	"LabelPropagation.h"
+
+1449384448 source:k:\linkpropagation\evolutionfunction.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<math.h>
+	<numeric>
+	"EvolutionFunction.h"
+
+1449384448 k:\linkpropagation\evolutionfunction.h
+	<iostream>
+	"loadingGraph.h"
+
+1432552208 k:\linkpropagation\loadinggraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1447988388 source:k:\linkpropagation\labelpropagation.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cmath>
+	<map>
+	<assert.h>
+	<math.h>
+	"LabelPropagation.h"
+	<time.h>
+
+1432903318 k:\linkpropagation\labelpropagation.h
+	<iostream>
+	"loadingGraph.h"
+
+1432990164 source:k:\linkpropagation\loadinggraph.cpp
+	<iostream>
+	"loadingGraph.h"
+
+1431260280 source:k:\linkpropagation\weightgraph.cpp
+	<iostream>
+	"WeightGraph.h"
+
+1431259938 k:\linkpropagation\weightgraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<map>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1449894578 source:k:\linkpropagation\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<set>
+	<map>
+	<algorithm>
+	<time.h>
+	"LabelPropagation.h"
+	"EvolutionFunction.h"
+	"pajek.h"
+
+1444464274 k:\linkpropagation\pajek.h
+	<iostream>
+	<ostream>
+	<vector>
+	"loadingGraph.h"
+
+1450782345 source:c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\evolutionfunction.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<math.h>
+	<numeric>
+	"EvolutionFunction.h"
+
+1449384448 c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\evolutionfunction.h
+	<iostream>
+	"loadingGraph.h"
+
+1432552208 c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\loadinggraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1457008421 source:c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\labelpropagation.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cmath>
+	<map>
+	<assert.h>
+	<math.h>
+	"LabelPropagation.h"
+	<time.h>
+
+1432903318 c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\labelpropagation.h
+	<iostream>
+	"loadingGraph.h"
+
+1449895130 source:c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\loadinggraph.cpp
+	<iostream>
+	"loadingGraph.h"
+
+1431260280 source:c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\weightgraph.cpp
+	<iostream>
+	"WeightGraph.h"
+
+1431259938 c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\weightgraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<map>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1457012221 source:c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<set>
+	<map>
+	<algorithm>
+	<time.h>
+	"LabelPropagation.h"
+	"EvolutionFunction.h"
+	"pajek.h"
+	"CompareToOCG.h"
+
+1453288298 c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\pajek.h
+	<iostream>
+	<ostream>
+	<vector>
+	"loadingGraph.h"
+
+1452862305 c:\users\administrator\desktop\夏老师发过来的资料\linkpropagation\comparetoocg.h
+	<iostream>
+	<vector>
+	<set>
+	<queue>
+	<algorithm>
+	"loadingGraph.h"
+
+1458874405 source:g:\投稿论文\论文\bioinformatics\实验\linkpropagation\evolutionfunction.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<math.h>
+	<numeric>
+	"EvolutionFunction.h"
+
+1449384448 g:\投稿论文\论文\bioinformatics\实验\linkpropagation\evolutionfunction.h
+	<iostream>
+	"loadingGraph.h"
+
+1458824567 g:\投稿论文\论文\bioinformatics\实验\linkpropagation\loadinggraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<map>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1457008421 source:g:\投稿论文\论文\bioinformatics\实验\linkpropagation\labelpropagation.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cmath>
+	<map>
+	<assert.h>
+	<math.h>
+	"LabelPropagation.h"
+	<time.h>
+
+1432903318 g:\投稿论文\论文\bioinformatics\实验\linkpropagation\labelpropagation.h
+	<iostream>
+	"loadingGraph.h"
+
+1458828912 source:g:\投稿论文\论文\bioinformatics\实验\linkpropagation\loadinggraph.cpp
+	<iostream>
+	"loadingGraph.h"
+
+1431260280 source:g:\投稿论文\论文\bioinformatics\实验\linkpropagation\weightgraph.cpp
+	<iostream>
+	"WeightGraph.h"
+
+1431259938 g:\投稿论文\论文\bioinformatics\实验\linkpropagation\weightgraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<map>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1458828502 source:g:\投稿论文\论文\bioinformatics\实验\linkpropagation\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<set>
+	<map>
+	<algorithm>
+	<time.h>
+	"LabelPropagation.h"
+	"EvolutionFunction.h"
+	"pajek.h"
+	"CompareToOCG.h"
+
+1453288298 g:\投稿论文\论文\bioinformatics\实验\linkpropagation\pajek.h
+	<iostream>
+	<ostream>
+	<vector>
+	"loadingGraph.h"
+
+1452862305 g:\投稿论文\论文\bioinformatics\实验\linkpropagation\comparetoocg.h
+	<iostream>
+	<vector>
+	<set>
+	<queue>
+	<algorithm>
+	"loadingGraph.h"
+
+1488176030 source:g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\evolutionfunction.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<math.h>
+	<numeric>
+	"EvolutionFunction.h"
+
+1487080527 g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\evolutionfunction.h
+	<iostream>
+	<vector>
+	"loadingGraph.h"
+
+1459747332 g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\loadinggraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<map>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1493902518 source:g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\labelpropagation.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cmath>
+	<map>
+	<assert.h>
+	<math.h>
+	"LabelPropagation.h"
+	<time.h>
+
+1459678326 g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\labelpropagation.h
+	<iostream>
+	"loadingGraph.h"
+
+1459678198 source:g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\loadinggraph.cpp
+	<iostream>
+	"loadingGraph.h"
+
+1459678483 source:g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\weightgraph.cpp
+	<iostream>
+	"WeightGraph.h"
+
+1459678483 g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\weightgraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<set>
+	<map>
+	<utility>
+	<cstdlib>
+	<algorithm>
+
+1492085375 source:g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<set>
+	<map>
+	<assert.h>
+	<algorithm>
+	<iomanip>
+	<time.h>
+	"LabelPropagation.h"
+	"pajek.h"
+
+1488186851 g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\pajek.h
+	<iostream>
+	<ostream>
+	<vector>
+	"loadingGraph.h"
+
+1459678349 g:\投稿论文\论文\bioinformatics\实验\对比实验\linkpropagation\comparetoocg.h
+	<iostream>
+	<vector>
+	<set>
+	<queue>
+	<algorithm>
+	"loadingGraph.h"
+
